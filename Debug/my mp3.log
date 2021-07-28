@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  list.cpp
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(38,7): warning C4996: 'MouseHit': This function is deprecated.
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(42,19): warning C4996: 'GetMouseMsg': This function is deprecated. Instead, use this new function: getmessage. See https://docs.easyx.cn/getmessage for details.
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(225,7): warning C4996: 'MouseHit': This function is deprecated.
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(229,19): warning C4996: 'GetMouseMsg': This function is deprecated. Instead, use this new function: getmessage. See https://docs.easyx.cn/getmessage for details.
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(331,8): warning C4996: 'MouseHit': This function is deprecated.
+G:\大学\大一\下\课程\2021实训\mymp3\my mp3\my mp3\list.cpp(335,20): warning C4996: 'GetMouseMsg': This function is deprecated. Instead, use this new function: getmessage. See https://docs.easyx.cn/getmessage for details.
+  my mp3.vcxproj -> G:\大学\大一\下\课程\2021实训\mymp3\my mp3\Debug\my mp3.exe
